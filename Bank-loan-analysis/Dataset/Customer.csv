@@ -1,0 +1,501 @@
+CustomerID,CustomerName,Age,Gender,State,Income,Occupation,CreditScore
+1,Customer_1,44,Male,Maharashtra,140318.00,Business,662
+2,Customer_2,22,Male,Odisha,101060.00,Teacher,812
+3,Customer_3,54,Female,Kerala,137507.00,Farmer,761
+4,Customer_4,45,Male,Odisha,52433.00,Doctor,784
+5,Customer_5,54,Male,Kerala,100772.00,Business,702
+6,Customer_6,49,Male,"Tamil Nadu",129424.00,Teacher,666
+7,Customer_7,55,Female,Telangana,88315.00,Business,835
+8,Customer_8,29,Male,Delhi,76723.00,Teacher,741
+9,Customer_9,34,Female,Odisha,106585.00,Business,733
+10,Customer_10,27,Male,Kerala,57010.00,Student,839
+11,Customer_11,26,Female,Gujarat,64148.00,Doctor,704
+12,Customer_12,31,Male,Delhi,128207.00,Doctor,837
+13,Customer_13,55,Female,Odisha,63108.00,Student,637
+14,Customer_14,57,Male,Kerala,123519.00,Teacher,712
+15,Customer_15,50,Male,Gujarat,70850.00,"Government Employee",718
+16,Customer_16,29,Female,Delhi,45579.00,"Software Engineer",663
+17,Customer_17,37,Male,Karnataka,70682.00,Engineer,669
+18,Customer_18,27,Female,Maharashtra,50702.00,"Government Employee",611
+19,Customer_19,22,Male,"Andhra Pradesh",81239.00,"Software Engineer",633
+20,Customer_20,60,Male,Kerala,57625.00,"Government Employee",719
+21,Customer_21,37,Female,Telangana,69041.00,Student,779
+22,Customer_22,57,Male,"Tamil Nadu",105399.00,Engineer,698
+23,Customer_23,51,Female,Odisha,135989.00,Student,848
+24,Customer_24,35,Female,Telangana,128976.00,"Software Engineer",686
+25,Customer_25,53,Male,Odisha,76549.00,Doctor,628
+26,Customer_26,51,Male,Telangana,108091.00,Doctor,728
+27,Customer_27,47,Female,Rajasthan,121763.00,Business,824
+28,Customer_28,26,Female,Kerala,134426.00,"Government Employee",769
+29,Customer_29,36,Female,Kerala,31825.00,Student,712
+30,Customer_30,47,Male,Telangana,68587.00,Business,711
+31,Customer_31,50,Male,"Tamil Nadu",29777.00,"Software Engineer",816
+32,Customer_32,34,Male,"Tamil Nadu",67765.00,Farmer,844
+33,Customer_33,39,Male,Gujarat,58300.00,Teacher,664
+34,Customer_34,47,Male,Kerala,45916.00,Teacher,772
+35,Customer_35,49,Female,Maharashtra,111357.00,Engineer,714
+36,Customer_36,59,Male,"Tamil Nadu",54065.00,Teacher,718
+37,Customer_37,47,Female,Karnataka,142281.00,Farmer,641
+38,Customer_38,38,Female,"Andhra Pradesh",107702.00,Farmer,686
+39,Customer_39,25,Female,Maharashtra,104755.00,Farmer,610
+40,Customer_40,54,Male,Gujarat,115971.00,Doctor,676
+41,Customer_41,45,Male,"Andhra Pradesh",63729.00,"Software Engineer",844
+42,Customer_42,58,Female,Gujarat,111587.00,Teacher,797
+43,Customer_43,37,Female,Maharashtra,27866.00,Farmer,787
+44,Customer_44,39,Male,Gujarat,90374.00,Business,804
+45,Customer_45,46,Female,Odisha,54013.00,Business,728
+46,Customer_46,30,Female,Kerala,111855.00,"Software Engineer",693
+47,Customer_47,28,Female,Kerala,58271.00,"Government Employee",765
+48,Customer_48,29,Male,Odisha,99245.00,"Software Engineer",621
+49,Customer_49,41,Male,Telangana,57530.00,Teacher,619
+50,Customer_50,56,Male,Karnataka,88537.00,"Software Engineer",632
+51,Customer_51,55,Female,Odisha,145628.00,Engineer,654
+52,Customer_52,21,Male,"Andhra Pradesh",88442.00,Engineer,759
+53,Customer_53,24,Male,"Andhra Pradesh",65211.00,Teacher,809
+54,Customer_54,49,Female,Rajasthan,81750.00,Student,759
+55,Customer_55,35,Female,Delhi,96713.00,Farmer,660
+56,Customer_56,54,Male,Delhi,124179.00,Teacher,676
+57,Customer_57,25,Female,Gujarat,141674.00,Business,653
+58,Customer_58,55,Female,Kerala,142373.00,Engineer,657
+59,Customer_59,25,Female,Karnataka,71849.00,Teacher,815
+60,Customer_60,49,Female,Kerala,139915.00,"Software Engineer",627
+61,Customer_61,46,Female,Karnataka,123565.00,Teacher,726
+62,Customer_62,21,Male,Maharashtra,123775.00,Student,748
+63,Customer_63,28,Male,Karnataka,127402.00,Doctor,616
+64,Customer_64,37,Female,Karnataka,112885.00,"Government Employee",639
+65,Customer_65,54,Female,Odisha,92866.00,"Software Engineer",643
+66,Customer_66,60,Male,Telangana,138305.00,Business,772
+67,Customer_67,60,Female,Delhi,87366.00,Student,624
+68,Customer_68,57,Male,Rajasthan,75676.00,Business,784
+69,Customer_69,40,Male,Odisha,30807.00,Doctor,651
+70,Customer_70,29,Male,Gujarat,59116.00,Teacher,817
+71,Customer_71,57,Female,Karnataka,44146.00,Engineer,834
+72,Customer_72,38,Male,Delhi,31330.00,Doctor,706
+73,Customer_73,28,Female,Kerala,117634.00,Teacher,751
+74,Customer_74,41,Female,Maharashtra,141020.00,Teacher,689
+75,Customer_75,24,Male,Rajasthan,137581.00,"Software Engineer",667
+76,Customer_76,35,Male,Odisha,138086.00,Student,608
+77,Customer_77,41,Male,Rajasthan,100879.00,"Government Employee",680
+78,Customer_78,49,Female,Odisha,114676.00,Farmer,634
+79,Customer_79,25,Male,Kerala,44439.00,Teacher,685
+80,Customer_80,30,Male,Rajasthan,136552.00,"Software Engineer",605
+81,Customer_81,32,Male,Telangana,139944.00,Student,625
+82,Customer_82,52,Female,Odisha,142158.00,"Government Employee",779
+83,Customer_83,39,Male,Maharashtra,92103.00,Business,798
+84,Customer_84,41,Male,Maharashtra,80050.00,Engineer,771
+85,Customer_85,37,Male,Odisha,84337.00,"Government Employee",780
+86,Customer_86,49,Male,Odisha,72710.00,Teacher,732
+87,Customer_87,30,Female,"Andhra Pradesh",36810.00,"Software Engineer",766
+88,Customer_88,34,Female,Gujarat,67170.00,Student,758
+89,Customer_89,44,Female,"Andhra Pradesh",26785.00,Business,702
+90,Customer_90,44,Female,Kerala,111822.00,"Software Engineer",683
+91,Customer_91,21,Male,"Tamil Nadu",71843.00,"Software Engineer",718
+92,Customer_92,44,Female,"Andhra Pradesh",124149.00,"Government Employee",811
+93,Customer_93,32,Female,Delhi,80464.00,Doctor,690
+94,Customer_94,52,Female,Rajasthan,99803.00,Student,818
+95,Customer_95,51,Male,Kerala,46785.00,Doctor,822
+96,Customer_96,44,Male,Maharashtra,116712.00,Teacher,779
+97,Customer_97,21,Female,Gujarat,29276.00,Farmer,826
+98,Customer_98,25,Female,Odisha,55297.00,Doctor,812
+99,Customer_99,32,Female,Rajasthan,52599.00,"Government Employee",784
+100,Customer_100,46,Male,"Andhra Pradesh",87395.00,Teacher,706
+101,Customer_101,43,Female,Telangana,114618.00,Doctor,759
+102,Customer_102,25,Female,Gujarat,130419.00,Engineer,737
+103,Customer_103,49,Female,"Andhra Pradesh",61730.00,"Software Engineer",823
+104,Customer_104,44,Male,Kerala,139701.00,"Software Engineer",625
+105,Customer_105,44,Female,Kerala,141594.00,"Software Engineer",759
+106,Customer_106,41,Female,Rajasthan,67598.00,Engineer,671
+107,Customer_107,30,Male,"Andhra Pradesh",110377.00,"Software Engineer",734
+108,Customer_108,58,Male,Maharashtra,28747.00,Farmer,640
+109,Customer_109,31,Female,"Tamil Nadu",66957.00,Student,823
+110,Customer_110,49,Female,"Tamil Nadu",55174.00,Engineer,703
+111,Customer_111,59,Female,Karnataka,49271.00,Doctor,614
+112,Customer_112,33,Male,Rajasthan,53420.00,Student,630
+113,Customer_113,58,Male,Delhi,63661.00,"Government Employee",678
+114,Customer_114,45,Male,Rajasthan,27363.00,Business,604
+115,Customer_115,55,Male,Maharashtra,87832.00,Doctor,803
+116,Customer_116,31,Female,Kerala,39424.00,"Software Engineer",705
+117,Customer_117,30,Female,"Andhra Pradesh",130481.00,"Government Employee",650
+118,Customer_118,51,Male,Odisha,146323.00,Engineer,642
+119,Customer_119,53,Female,"Andhra Pradesh",45307.00,Business,723
+120,Customer_120,31,Female,Delhi,78867.00,Doctor,650
+121,Customer_121,25,Female,Maharashtra,63760.00,Teacher,676
+122,Customer_122,52,Male,Gujarat,102464.00,"Software Engineer",750
+123,Customer_123,33,Female,Telangana,110338.00,Business,809
+124,Customer_124,22,Female,"Tamil Nadu",108872.00,Doctor,727
+125,Customer_125,46,Female,Karnataka,69142.00,Engineer,614
+126,Customer_126,29,Female,Odisha,137967.00,"Government Employee",830
+127,Customer_127,37,Male,"Tamil Nadu",109805.00,Business,618
+128,Customer_128,25,Male,"Tamil Nadu",99093.00,Engineer,672
+129,Customer_129,37,Male,Gujarat,26671.00,"Software Engineer",734
+130,Customer_130,58,Male,"Tamil Nadu",114918.00,Student,704
+131,Customer_131,42,Male,Gujarat,52887.00,"Software Engineer",846
+132,Customer_132,25,Female,Rajasthan,74408.00,Business,779
+133,Customer_133,38,Male,Odisha,115213.00,"Government Employee",639
+134,Customer_134,52,Male,Telangana,126462.00,"Software Engineer",613
+135,Customer_135,43,Female,Rajasthan,138406.00,Engineer,825
+136,Customer_136,25,Female,Telangana,111395.00,Doctor,647
+137,Customer_137,28,Male,"Tamil Nadu",114928.00,Business,637
+138,Customer_138,35,Male,Gujarat,106586.00,Engineer,621
+139,Customer_139,37,Female,Kerala,88004.00,Farmer,804
+140,Customer_140,40,Female,"Tamil Nadu",128222.00,Engineer,621
+141,Customer_141,24,Male,Gujarat,144356.00,"Government Employee",694
+142,Customer_142,58,Female,Telangana,86684.00,Doctor,654
+143,Customer_143,23,Female,"Tamil Nadu",86051.00,Business,827
+144,Customer_144,25,Female,Rajasthan,112624.00,"Software Engineer",802
+145,Customer_145,24,Female,Delhi,80705.00,Teacher,754
+146,Customer_146,41,Female,Rajasthan,29002.00,Farmer,765
+147,Customer_147,22,Male,Odisha,63021.00,Student,794
+148,Customer_148,31,Female,"Andhra Pradesh",140707.00,Engineer,758
+149,Customer_149,57,Female,Gujarat,88381.00,Business,695
+150,Customer_150,51,Female,Odisha,141136.00,"Government Employee",801
+151,Customer_151,55,Female,Telangana,74955.00,"Software Engineer",659
+152,Customer_152,41,Female,Rajasthan,127064.00,Business,722
+153,Customer_153,32,Female,Rajasthan,60093.00,"Software Engineer",841
+154,Customer_154,57,Female,Odisha,74045.00,Teacher,801
+155,Customer_155,37,Female,Karnataka,59415.00,Student,810
+156,Customer_156,44,Male,Kerala,49238.00,Business,736
+157,Customer_157,38,Female,Kerala,126907.00,Student,706
+158,Customer_158,36,Female,Karnataka,58533.00,Student,827
+159,Customer_159,57,Female,"Tamil Nadu",37428.00,Student,766
+160,Customer_160,42,Female,Odisha,76666.00,Doctor,729
+161,Customer_161,41,Male,Gujarat,88573.00,Doctor,630
+162,Customer_162,45,Female,Rajasthan,49418.00,Doctor,835
+163,Customer_163,52,Male,Telangana,138448.00,Business,751
+164,Customer_164,45,Male,Delhi,42049.00,Farmer,839
+165,Customer_165,27,Female,"Andhra Pradesh",143731.00,Doctor,784
+166,Customer_166,49,Male,Odisha,66020.00,"Software Engineer",718
+167,Customer_167,48,Male,Telangana,33955.00,Doctor,652
+168,Customer_168,28,Male,Telangana,75578.00,Farmer,778
+169,Customer_169,28,Female,Delhi,91571.00,Farmer,745
+170,Customer_170,36,Male,Rajasthan,118233.00,Engineer,674
+171,Customer_171,27,Female,"Andhra Pradesh",31614.00,Farmer,752
+172,Customer_172,52,Male,Telangana,30204.00,Engineer,618
+173,Customer_173,30,Male,"Tamil Nadu",108803.00,Doctor,746
+174,Customer_174,59,Male,Karnataka,46759.00,Teacher,628
+175,Customer_175,28,Female,"Tamil Nadu",145611.00,Farmer,633
+176,Customer_176,30,Female,"Tamil Nadu",60742.00,Business,626
+177,Customer_177,34,Male,Telangana,46040.00,Student,688
+178,Customer_178,23,Male,Rajasthan,119416.00,Teacher,721
+179,Customer_179,60,Male,"Andhra Pradesh",101734.00,Student,821
+180,Customer_180,52,Male,Odisha,28502.00,Doctor,643
+181,Customer_181,25,Male,Rajasthan,59820.00,"Government Employee",824
+182,Customer_182,30,Male,Gujarat,69988.00,Business,695
+183,Customer_183,37,Female,Kerala,140173.00,"Software Engineer",806
+184,Customer_184,35,Male,Kerala,120798.00,Teacher,761
+185,Customer_185,46,Male,Kerala,128076.00,Business,603
+186,Customer_186,44,Female,Kerala,60783.00,"Government Employee",765
+187,Customer_187,28,Female,Karnataka,92099.00,Farmer,711
+188,Customer_188,52,Female,Gujarat,125643.00,Farmer,776
+189,Customer_189,22,Male,Kerala,42654.00,Teacher,727
+190,Customer_190,60,Male,"Andhra Pradesh",68204.00,Doctor,802
+191,Customer_191,58,Male,Maharashtra,82084.00,"Software Engineer",709
+192,Customer_192,32,Male,Odisha,39327.00,Farmer,786
+193,Customer_193,31,Male,Kerala,81728.00,"Government Employee",622
+194,Customer_194,35,Female,Rajasthan,82260.00,"Government Employee",693
+195,Customer_195,45,Female,Telangana,44510.00,"Government Employee",648
+196,Customer_196,51,Male,Telangana,92639.00,Business,795
+197,Customer_197,38,Female,"Andhra Pradesh",44184.00,Doctor,798
+198,Customer_198,29,Female,Delhi,86456.00,Doctor,691
+199,Customer_199,49,Male,"Tamil Nadu",43262.00,Farmer,678
+200,Customer_200,33,Female,"Andhra Pradesh",117084.00,Doctor,732
+201,Customer_201,45,Male,"Tamil Nadu",80003.00,Teacher,718
+202,Customer_202,56,Male,Maharashtra,73065.00,Business,600
+203,Customer_203,49,Female,Delhi,77860.00,Doctor,623
+204,Customer_204,47,Male,Telangana,59923.00,Teacher,660
+205,Customer_205,43,Male,Gujarat,112715.00,Engineer,710
+206,Customer_206,55,Male,Kerala,85890.00,"Software Engineer",612
+207,Customer_207,42,Female,Telangana,116246.00,Business,613
+208,Customer_208,57,Male,Kerala,59002.00,Farmer,604
+209,Customer_209,52,Female,"Andhra Pradesh",38338.00,Engineer,811
+210,Customer_210,25,Male,Telangana,131241.00,Teacher,716
+211,Customer_211,49,Male,Delhi,134664.00,Doctor,656
+212,Customer_212,21,Male,Gujarat,128824.00,Farmer,735
+213,Customer_213,31,Female,Odisha,77626.00,Doctor,660
+214,Customer_214,33,Female,"Andhra Pradesh",51453.00,"Government Employee",783
+215,Customer_215,46,Female,Telangana,34715.00,Doctor,760
+216,Customer_216,24,Male,Telangana,142479.00,Student,784
+217,Customer_217,26,Female,Karnataka,91958.00,"Software Engineer",691
+218,Customer_218,54,Male,Rajasthan,51846.00,Business,694
+219,Customer_219,48,Male,Karnataka,81390.00,Student,668
+220,Customer_220,52,Male,"Andhra Pradesh",57008.00,"Software Engineer",615
+221,Customer_221,37,Female,"Andhra Pradesh",43407.00,Doctor,821
+222,Customer_222,45,Male,Maharashtra,130203.00,Farmer,807
+223,Customer_223,41,Male,Odisha,101104.00,Engineer,751
+224,Customer_224,51,Female,Delhi,43388.00,"Software Engineer",850
+225,Customer_225,33,Female,"Andhra Pradesh",114529.00,Teacher,618
+226,Customer_226,46,Female,Gujarat,26057.00,Farmer,799
+227,Customer_227,48,Male,"Andhra Pradesh",96257.00,Business,721
+228,Customer_228,25,Male,"Andhra Pradesh",75731.00,Student,818
+229,Customer_229,40,Female,Odisha,148519.00,Teacher,802
+230,Customer_230,43,Male,Maharashtra,145821.00,Business,717
+231,Customer_231,57,Male,Karnataka,89703.00,"Software Engineer",616
+232,Customer_232,43,Female,Maharashtra,54759.00,"Software Engineer",829
+233,Customer_233,52,Male,Delhi,86172.00,Student,736
+234,Customer_234,57,Female,Odisha,28780.00,Teacher,620
+235,Customer_235,48,Male,"Andhra Pradesh",47347.00,Doctor,618
+236,Customer_236,37,Female,Gujarat,84358.00,Engineer,813
+237,Customer_237,24,Female,"Andhra Pradesh",49317.00,Business,779
+238,Customer_238,28,Female,Kerala,69281.00,Engineer,663
+239,Customer_239,23,Female,Rajasthan,58121.00,Farmer,743
+240,Customer_240,30,Male,Kerala,59735.00,Farmer,674
+241,Customer_241,21,Male,Gujarat,61539.00,Teacher,636
+242,Customer_242,25,Male,"Tamil Nadu",84703.00,Teacher,788
+243,Customer_243,22,Female,Gujarat,144003.00,Business,655
+244,Customer_244,55,Female,Delhi,69894.00,Farmer,843
+245,Customer_245,37,Male,Gujarat,47183.00,Student,730
+246,Customer_246,51,Male,Telangana,71659.00,Farmer,776
+247,Customer_247,29,Female,Karnataka,81329.00,Business,768
+248,Customer_248,26,Female,Odisha,103133.00,Doctor,821
+249,Customer_249,35,Male,Gujarat,47555.00,"Government Employee",836
+250,Customer_250,46,Male,Delhi,78221.00,Engineer,671
+251,Customer_251,24,Female,Delhi,77925.00,Teacher,811
+252,Customer_252,42,Male,Karnataka,92092.00,Engineer,782
+253,Customer_253,38,Male,Delhi,86584.00,Doctor,685
+254,Customer_254,45,Male,Karnataka,55902.00,Business,739
+255,Customer_255,36,Male,"Tamil Nadu",110354.00,Business,672
+256,Customer_256,22,Male,Delhi,30905.00,Business,787
+257,Customer_257,45,Female,Telangana,27288.00,"Software Engineer",691
+258,Customer_258,27,Female,"Andhra Pradesh",116573.00,Engineer,671
+259,Customer_259,26,Female,Rajasthan,108168.00,Farmer,837
+260,Customer_260,35,Female,Rajasthan,55785.00,"Government Employee",798
+261,Customer_261,54,Female,Delhi,136136.00,Business,676
+262,Customer_262,34,Female,Gujarat,103104.00,Farmer,618
+263,Customer_263,60,Female,Rajasthan,31578.00,"Government Employee",607
+264,Customer_264,30,Male,Gujarat,86463.00,Teacher,727
+265,Customer_265,59,Male,"Tamil Nadu",25370.00,"Software Engineer",822
+266,Customer_266,40,Female,Kerala,69352.00,Engineer,720
+267,Customer_267,24,Female,Maharashtra,88387.00,Teacher,647
+268,Customer_268,41,Male,Maharashtra,71713.00,Business,617
+269,Customer_269,22,Female,Gujarat,137604.00,Teacher,684
+270,Customer_270,23,Male,Karnataka,57605.00,"Government Employee",713
+271,Customer_271,33,Male,Karnataka,99362.00,Teacher,623
+272,Customer_272,58,Male,Karnataka,37156.00,"Government Employee",622
+273,Customer_273,37,Female,Gujarat,87618.00,Teacher,668
+274,Customer_274,56,Female,Delhi,37191.00,"Government Employee",828
+275,Customer_275,46,Male,Karnataka,121620.00,Teacher,829
+276,Customer_276,54,Male,Maharashtra,41905.00,Doctor,622
+277,Customer_277,42,Male,Delhi,118209.00,Farmer,631
+278,Customer_278,21,Female,Karnataka,83566.00,Business,835
+279,Customer_279,32,Female,Telangana,114934.00,Doctor,697
+280,Customer_280,21,Female,"Tamil Nadu",52747.00,"Software Engineer",676
+281,Customer_281,42,Female,"Tamil Nadu",49024.00,Engineer,745
+282,Customer_282,53,Male,Odisha,131775.00,Business,808
+283,Customer_283,49,Male,Maharashtra,111073.00,Teacher,613
+284,Customer_284,44,Female,"Tamil Nadu",32135.00,Business,781
+285,Customer_285,40,Male,Rajasthan,62280.00,Engineer,696
+286,Customer_286,51,Female,Gujarat,28883.00,Farmer,637
+287,Customer_287,29,Female,Karnataka,115888.00,"Government Employee",741
+288,Customer_288,44,Male,Karnataka,94642.00,Engineer,815
+289,Customer_289,60,Male,Gujarat,92230.00,Student,661
+290,Customer_290,41,Female,Maharashtra,28407.00,"Government Employee",676
+291,Customer_291,40,Female,"Tamil Nadu",139878.00,"Government Employee",702
+292,Customer_292,26,Male,Odisha,57541.00,Business,780
+293,Customer_293,24,Male,"Andhra Pradesh",39864.00,"Software Engineer",754
+294,Customer_294,25,Female,Odisha,134652.00,Business,795
+295,Customer_295,38,Female,"Andhra Pradesh",45186.00,Doctor,834
+296,Customer_296,53,Male,Telangana,63629.00,Business,640
+297,Customer_297,43,Male,Rajasthan,76796.00,Business,622
+298,Customer_298,22,Female,Delhi,67136.00,Farmer,804
+299,Customer_299,52,Male,Rajasthan,36582.00,Farmer,793
+300,Customer_300,37,Female,Gujarat,62997.00,Doctor,740
+301,Customer_301,57,Female,Delhi,89535.00,"Government Employee",844
+302,Customer_302,51,Female,Telangana,117553.00,Business,662
+303,Customer_303,51,Male,Rajasthan,71573.00,Teacher,799
+304,Customer_304,38,Female,Kerala,106556.00,Business,694
+305,Customer_305,40,Male,Odisha,132047.00,Business,797
+306,Customer_306,42,Male,Gujarat,143463.00,Business,755
+307,Customer_307,45,Male,"Tamil Nadu",129171.00,Teacher,787
+308,Customer_308,60,Female,Kerala,112411.00,Farmer,832
+309,Customer_309,29,Male,Rajasthan,50086.00,Student,648
+310,Customer_310,32,Female,Maharashtra,126513.00,Student,747
+311,Customer_311,26,Female,Odisha,68765.00,Farmer,792
+312,Customer_312,42,Male,Maharashtra,131471.00,Engineer,728
+313,Customer_313,42,Male,Rajasthan,37252.00,Farmer,612
+314,Customer_314,46,Male,Karnataka,36453.00,Farmer,723
+315,Customer_315,29,Female,"Andhra Pradesh",28169.00,"Government Employee",731
+316,Customer_316,39,Female,Karnataka,35988.00,"Government Employee",633
+317,Customer_317,45,Female,Gujarat,71156.00,"Government Employee",749
+318,Customer_318,51,Female,Delhi,45786.00,"Software Engineer",697
+319,Customer_319,21,Female,"Tamil Nadu",35397.00,Business,783
+320,Customer_320,39,Male,Karnataka,107202.00,"Government Employee",710
+321,Customer_321,27,Male,Gujarat,104294.00,Farmer,845
+322,Customer_322,43,Female,Gujarat,53534.00,Farmer,666
+323,Customer_323,59,Female,Telangana,51575.00,"Software Engineer",657
+324,Customer_324,30,Male,Delhi,119941.00,"Software Engineer",661
+325,Customer_325,41,Female,Gujarat,27417.00,"Software Engineer",769
+326,Customer_326,42,Female,Kerala,27770.00,Doctor,774
+327,Customer_327,37,Female,Gujarat,95458.00,"Government Employee",800
+328,Customer_328,57,Male,Rajasthan,134883.00,Farmer,781
+329,Customer_329,60,Female,Telangana,105372.00,Teacher,611
+330,Customer_330,46,Male,Kerala,86211.00,Farmer,700
+331,Customer_331,48,Male,Rajasthan,133555.00,"Government Employee",815
+332,Customer_332,29,Female,Odisha,43459.00,"Software Engineer",630
+333,Customer_333,56,Male,Maharashtra,35105.00,Teacher,712
+334,Customer_334,53,Female,"Tamil Nadu",71296.00,Farmer,655
+335,Customer_335,41,Female,Rajasthan,82142.00,Farmer,824
+336,Customer_336,57,Female,Gujarat,148373.00,"Government Employee",770
+337,Customer_337,29,Male,Maharashtra,45083.00,Business,832
+338,Customer_338,28,Male,Telangana,32958.00,Engineer,619
+339,Customer_339,30,Female,Odisha,138476.00,"Government Employee",826
+340,Customer_340,34,Female,Rajasthan,92593.00,Engineer,708
+341,Customer_341,26,Male,"Tamil Nadu",127206.00,"Software Engineer",689
+342,Customer_342,56,Male,"Tamil Nadu",101085.00,"Software Engineer",816
+343,Customer_343,41,Female,Telangana,106465.00,Engineer,633
+344,Customer_344,45,Female,Maharashtra,41463.00,Business,767
+345,Customer_345,24,Male,Telangana,115224.00,Student,747
+346,Customer_346,32,Female,Maharashtra,84878.00,"Software Engineer",613
+347,Customer_347,43,Female,Gujarat,112999.00,Teacher,633
+348,Customer_348,57,Male,"Andhra Pradesh",70209.00,Doctor,646
+349,Customer_349,27,Male,Odisha,149830.00,Engineer,670
+350,Customer_350,30,Male,"Andhra Pradesh",116435.00,Teacher,713
+351,Customer_351,55,Male,"Tamil Nadu",148812.00,Farmer,798
+352,Customer_352,49,Male,Kerala,84031.00,"Government Employee",785
+353,Customer_353,53,Female,Delhi,131800.00,Doctor,821
+354,Customer_354,42,Male,Rajasthan,121600.00,Business,817
+355,Customer_355,22,Female,Kerala,68684.00,"Software Engineer",807
+356,Customer_356,29,Female,Karnataka,73202.00,Doctor,649
+357,Customer_357,27,Male,Rajasthan,71550.00,Doctor,760
+358,Customer_358,26,Female,Maharashtra,42132.00,Teacher,738
+359,Customer_359,28,Male,Rajasthan,61604.00,"Software Engineer",616
+360,Customer_360,35,Female,Telangana,77672.00,"Software Engineer",678
+361,Customer_361,53,Male,"Andhra Pradesh",97130.00,Doctor,809
+362,Customer_362,30,Female,Gujarat,114581.00,Doctor,686
+363,Customer_363,53,Male,Rajasthan,51750.00,Business,712
+364,Customer_364,60,Female,Telangana,101358.00,Farmer,621
+365,Customer_365,24,Male,"Tamil Nadu",98090.00,"Government Employee",849
+366,Customer_366,50,Female,Telangana,65442.00,Business,682
+367,Customer_367,31,Male,Telangana,141728.00,"Government Employee",718
+368,Customer_368,36,Female,Kerala,50362.00,Doctor,827
+369,Customer_369,46,Male,Karnataka,127414.00,Business,796
+370,Customer_370,43,Female,Gujarat,83883.00,"Software Engineer",711
+371,Customer_371,32,Male,Odisha,39162.00,Farmer,772
+372,Customer_372,21,Male,"Andhra Pradesh",101614.00,Student,666
+373,Customer_373,39,Female,"Tamil Nadu",146249.00,"Software Engineer",730
+374,Customer_374,58,Male,Rajasthan,123010.00,Business,784
+375,Customer_375,37,Female,Karnataka,110066.00,Student,784
+376,Customer_376,21,Female,"Tamil Nadu",30579.00,Teacher,838
+377,Customer_377,24,Female,Gujarat,43442.00,Doctor,667
+378,Customer_378,33,Female,Telangana,119832.00,"Government Employee",655
+379,Customer_379,21,Male,Gujarat,137614.00,Engineer,814
+380,Customer_380,58,Male,Odisha,41982.00,"Software Engineer",659
+381,Customer_381,37,Male,Karnataka,78055.00,Doctor,707
+382,Customer_382,25,Male,Karnataka,86209.00,Student,673
+383,Customer_383,53,Male,Kerala,30285.00,"Government Employee",613
+384,Customer_384,35,Female,Telangana,70188.00,"Government Employee",665
+385,Customer_385,33,Female,Delhi,65848.00,Student,782
+386,Customer_386,21,Female,"Tamil Nadu",59105.00,Teacher,654
+387,Customer_387,39,Female,Rajasthan,54508.00,"Government Employee",780
+388,Customer_388,42,Female,Odisha,48941.00,Teacher,617
+389,Customer_389,59,Female,Telangana,72593.00,Farmer,606
+390,Customer_390,45,Male,"Tamil Nadu",97233.00,Farmer,750
+391,Customer_391,37,Male,Rajasthan,97624.00,Business,637
+392,Customer_392,45,Female,"Tamil Nadu",114304.00,Student,814
+393,Customer_393,40,Female,Gujarat,60497.00,Teacher,805
+394,Customer_394,48,Male,Telangana,63378.00,Doctor,726
+395,Customer_395,47,Female,"Andhra Pradesh",74087.00,Business,828
+396,Customer_396,32,Female,Odisha,55372.00,Student,795
+397,Customer_397,36,Female,Odisha,110490.00,"Government Employee",714
+398,Customer_398,27,Male,Rajasthan,30504.00,Student,727
+399,Customer_399,59,Male,Kerala,132490.00,"Government Employee",790
+400,Customer_400,52,Female,Odisha,144317.00,Farmer,620
+401,Customer_401,22,Female,Gujarat,105346.00,Engineer,726
+402,Customer_402,31,Female,"Tamil Nadu",46301.00,Farmer,798
+403,Customer_403,35,Male,Karnataka,134276.00,Student,689
+404,Customer_404,60,Female,Maharashtra,92580.00,Business,686
+405,Customer_405,42,Female,Gujarat,103702.00,"Software Engineer",834
+406,Customer_406,52,Male,"Andhra Pradesh",77907.00,"Government Employee",643
+407,Customer_407,52,Male,Rajasthan,149830.00,Business,832
+408,Customer_408,40,Female,Gujarat,131336.00,"Software Engineer",696
+409,Customer_409,59,Female,Karnataka,87920.00,"Government Employee",826
+410,Customer_410,39,Female,Delhi,51516.00,Doctor,767
+411,Customer_411,42,Female,Telangana,55724.00,"Software Engineer",831
+412,Customer_412,53,Male,Karnataka,48003.00,Teacher,704
+413,Customer_413,41,Male,Rajasthan,105661.00,Student,775
+414,Customer_414,57,Male,Delhi,136192.00,Business,738
+415,Customer_415,37,Male,Odisha,101618.00,Engineer,747
+416,Customer_416,48,Female,Karnataka,61612.00,"Government Employee",751
+417,Customer_417,57,Female,Karnataka,135219.00,"Government Employee",726
+418,Customer_418,46,Female,Maharashtra,36625.00,Teacher,795
+419,Customer_419,31,Female,Telangana,77211.00,"Software Engineer",651
+420,Customer_420,35,Male,Delhi,136168.00,Business,750
+421,Customer_421,46,Male,"Andhra Pradesh",64424.00,Doctor,684
+422,Customer_422,57,Female,Odisha,42921.00,Farmer,828
+423,Customer_423,58,Male,"Andhra Pradesh",139319.00,Engineer,681
+424,Customer_424,44,Female,Telangana,58790.00,Doctor,729
+425,Customer_425,52,Male,"Tamil Nadu",119266.00,"Government Employee",676
+426,Customer_426,36,Male,Odisha,104968.00,Business,843
+427,Customer_427,49,Female,Karnataka,32788.00,"Government Employee",631
+428,Customer_428,46,Female,Telangana,28735.00,"Software Engineer",698
+429,Customer_429,32,Male,"Andhra Pradesh",50336.00,Student,620
+430,Customer_430,52,Female,"Andhra Pradesh",85418.00,Engineer,833
+431,Customer_431,37,Male,Karnataka,94588.00,"Software Engineer",793
+432,Customer_432,28,Female,Delhi,88631.00,Business,793
+433,Customer_433,40,Male,Odisha,100653.00,Engineer,791
+434,Customer_434,39,Male,Odisha,107051.00,Doctor,786
+435,Customer_435,48,Male,Odisha,69648.00,Farmer,818
+436,Customer_436,60,Male,Delhi,48765.00,Engineer,790
+437,Customer_437,45,Female,Rajasthan,40217.00,Engineer,775
+438,Customer_438,39,Male,Maharashtra,144447.00,Doctor,755
+439,Customer_439,29,Male,"Tamil Nadu",69709.00,Student,832
+440,Customer_440,53,Male,Karnataka,49911.00,Doctor,775
+441,Customer_441,49,Male,Karnataka,145071.00,"Software Engineer",818
+442,Customer_442,40,Female,Rajasthan,85350.00,"Software Engineer",713
+443,Customer_443,33,Male,Karnataka,104228.00,Doctor,804
+444,Customer_444,22,Female,Gujarat,62052.00,Doctor,776
+445,Customer_445,43,Female,Rajasthan,26631.00,Student,832
+446,Customer_446,55,Male,Rajasthan,119175.00,Doctor,602
+447,Customer_447,32,Male,"Andhra Pradesh",95510.00,Doctor,623
+448,Customer_448,36,Female,"Tamil Nadu",79751.00,Doctor,608
+449,Customer_449,35,Female,Karnataka,76487.00,Teacher,803
+450,Customer_450,37,Female,"Andhra Pradesh",100557.00,"Government Employee",694
+451,Customer_451,59,Female,Gujarat,105250.00,"Software Engineer",737
+452,Customer_452,22,Female,Rajasthan,84957.00,Farmer,779
+453,Customer_453,24,Male,"Andhra Pradesh",137034.00,Engineer,725
+454,Customer_454,36,Male,Telangana,35980.00,Teacher,749
+455,Customer_455,39,Female,"Tamil Nadu",33018.00,Doctor,669
+456,Customer_456,40,Female,Rajasthan,33312.00,"Software Engineer",680
+457,Customer_457,56,Male,Gujarat,57992.00,Engineer,771
+458,Customer_458,26,Female,Delhi,83597.00,Doctor,700
+459,Customer_459,58,Male,"Tamil Nadu",83295.00,Doctor,607
+460,Customer_460,32,Male,Odisha,126859.00,Engineer,631
+461,Customer_461,32,Male,Maharashtra,52716.00,"Government Employee",742
+462,Customer_462,57,Female,Karnataka,34006.00,Business,644
+463,Customer_463,38,Female,"Andhra Pradesh",99956.00,Student,637
+464,Customer_464,60,Male,Karnataka,132466.00,Student,713
+465,Customer_465,38,Female,Rajasthan,114513.00,Engineer,633
+466,Customer_466,41,Male,Odisha,108387.00,Doctor,797
+467,Customer_467,55,Female,Karnataka,70366.00,Engineer,638
+468,Customer_468,45,Female,"Tamil Nadu",132139.00,Teacher,722
+469,Customer_469,53,Female,Maharashtra,109511.00,"Software Engineer",749
+470,Customer_470,29,Male,Delhi,106736.00,Teacher,610
+471,Customer_471,45,Female,Delhi,114767.00,Student,737
+472,Customer_472,26,Female,Kerala,106024.00,"Government Employee",727
+473,Customer_473,39,Female,Delhi,138703.00,Student,838
+474,Customer_474,26,Female,Odisha,145812.00,Engineer,735
+475,Customer_475,38,Female,"Tamil Nadu",62924.00,Doctor,840
+476,Customer_476,47,Male,Karnataka,122953.00,Doctor,829
+477,Customer_477,53,Male,"Andhra Pradesh",117606.00,Doctor,662
+478,Customer_478,35,Male,Karnataka,45560.00,"Software Engineer",714
+479,Customer_479,33,Male,Telangana,119845.00,Student,746
+480,Customer_480,28,Male,Kerala,47522.00,Teacher,682
+481,Customer_481,26,Female,Rajasthan,61953.00,"Software Engineer",802
+482,Customer_482,29,Female,Gujarat,113830.00,Doctor,688
+483,Customer_483,56,Male,Telangana,52915.00,"Software Engineer",651
+484,Customer_484,25,Female,"Andhra Pradesh",46458.00,Doctor,649
+485,Customer_485,59,Male,Karnataka,102553.00,Doctor,775
+486,Customer_486,43,Female,Rajasthan,35205.00,"Software Engineer",654
+487,Customer_487,37,Male,Kerala,130851.00,Business,819
+488,Customer_488,58,Male,Karnataka,71361.00,Engineer,833
+489,Customer_489,45,Male,Delhi,70231.00,Farmer,641
+490,Customer_490,32,Female,Gujarat,139629.00,Business,643
+491,Customer_491,49,Male,Odisha,115588.00,Farmer,760
+492,Customer_492,57,Female,Maharashtra,84398.00,"Software Engineer",658
+493,Customer_493,35,Male,Kerala,50828.00,Business,811
+494,Customer_494,50,Male,Maharashtra,133625.00,"Software Engineer",688
+495,Customer_495,52,Female,"Andhra Pradesh",32563.00,Farmer,845
+496,Customer_496,37,Male,"Andhra Pradesh",83443.00,"Software Engineer",669
+497,Customer_497,43,Male,Maharashtra,144350.00,Student,835
+498,Customer_498,21,Male,Odisha,69652.00,Farmer,849
+499,Customer_499,42,Female,Gujarat,132073.00,"Software Engineer",652
+500,Customer_500,28,Male,Rajasthan,87869.00,"Software Engineer",600
